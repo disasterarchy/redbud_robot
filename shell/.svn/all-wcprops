@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/161/trunk/shell
+END
+app.yaml.shell
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/152/trunk/shell/app.yaml.shell
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/152/trunk/shell/README
+END
+app.yaml.shell-27
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/152/trunk/shell/app.yaml.shell-27
+END
+shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/152/trunk/shell/shell.py
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/152/trunk/shell/app.yaml
+END
+cron.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/114/trunk/shell/cron.yaml
+END
+app.yaml.shell-hrd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/152/trunk/shell/app.yaml.shell-hrd
+END
